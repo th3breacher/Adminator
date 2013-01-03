@@ -57,7 +57,7 @@ class bcolors:
 #Options class that has different wordlists
 class Options:
 	Admin_Wordlist= 'admins.txt'
-	Subdomains_Wordlist= 'sudomains.txt'
+	Subdomains_Wordlist= 'subdomains.txt'
 	HTTP_Default_Port= 80
 
 def is_linux():
